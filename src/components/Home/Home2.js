@@ -32,7 +32,7 @@ function Home2() {
               <b className="purple"> Node.js</b> 🟢, and I love working with
               frameworks like <b className="purple">React</b> ⚛️, alongside
               state management tools like <b className="purple">Redux</b> 🔄 and{" "}
-              <b className="purple">Redux</b> Zustand 🐻. Whether it’s crafting
+              <b className="purple">Zustand</b>  🐻. Whether it’s crafting
               smooth user experiences 🎨 or building scalable backend systems
               🏗️, I’m always up for a challenge! 💪✨{" "}
             </p>

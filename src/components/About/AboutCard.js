@@ -12,7 +12,7 @@ function AboutCard() {
             from <span className="purple"> from Lalitpur, Nepal</span>
             <br />
             <br />
-            I’m currently working as an Associate Software Engineer 💻 at
+            I’m currently working as an Software Engineer 💻 at
             InnovateTech, where I get to unleash my passion for coding every
             day! With a BSc (Hons) in Computing 🎓 from Islington College,
             affiliated with London Metropolitan University 🏫, I’ve gained a
